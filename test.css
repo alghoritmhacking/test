@@ -1,3 +1,6 @@
 .history-table tr:nth-child(1) {
 display: none !important;
 }
+#ParamsObject_counters_html {
+    color: #fff !important;
+}
